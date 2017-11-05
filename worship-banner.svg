@@ -16,7 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="worship-banner.svg">
+   sodipodi:docname="worship-banner.svg"
+   inkscape:export-filename="/home/chriswachira/Documents/G-Designs/aic-riverview/worship-banner.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -69,8 +72,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="419.78588"
-     inkscape:cy="1189.8324"
+     inkscape:cx="478.85787"
+     inkscape:cy="1145.0746"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -142,7 +145,7 @@
        y="-434.18326" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:169.26660156px;line-height:0%;font-family:sans-serif;letter-spacing:114.81917572px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:169.26660156px;line-height:0%;font-family:sans-serif;letter-spacing:114.81917572px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="85.775085"
        y="-192.65236"
        id="text3360"
@@ -151,10 +154,10 @@
          id="tspan3362"
          x="85.775085"
          y="-192.65236"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:93.75px;font-family:'Gotham Light';-inkscape-font-specification:'Gotham Light, Light';letter-spacing:40px;fill:#ffffff">RIVERVIEW</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:93.75px;font-family:'Gotham Light';-inkscape-font-specification:'Gotham Light, Light';letter-spacing:40px;fill:#ffffff;">RIVERVIEW</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:97.97698975px;line-height:0%;font-family:sans-serif;letter-spacing:66.46105194px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:97.97698975px;line-height:0%;font-family:sans-serif;letter-spacing:66.46105194px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="340.59079"
        y="-319.37924"
        id="text3552"
@@ -163,7 +166,7 @@
          id="tspan3554"
          x="340.59079"
          y="-319.37924"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Gotham Light';-inkscape-font-specification:'Gotham Light, Light';letter-spacing:37.02207565px">A.I.C</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Gotham Light';-inkscape-font-specification:'Gotham Light, Light';letter-spacing:37.02207565px;fill:#ffffff;">A.I.C</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:60px;line-height:0%;font-family:sans-serif;letter-spacing:40.70000076px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -228,33 +231,29 @@
          y="-61.239574"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0px;fill:#ffffff">Welcomes you to</tspan></text>
     <g
-       id="g4202"
-       transform="translate(-46,20)">
-      <g
-         id="g4210"
-         transform="matrix(1.026962,0,0,1.026962,-2.2586484,-5.7927296)">
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.77095604;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect4200"
-           width="229.99181"
-           height="60.544003"
-           x="241.94759"
-           y="217.23309" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:60px;line-height:0%;font-family:sans-serif;letter-spacing:40.70000076px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="78.571426"
-           y="263.79077"
-           id="text4194"
-           sodipodi:linespacing="0%"><tspan
-             sodipodi:role="line"
-             id="tspan4196"
-             x="78.571426"
-             y="263.79077"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0px;fill:#ffffff">Every  <tspan
-   style="font-size:50px;fill:#000000"
-   id="tspan4198">SUNDAY   </tspan>from 10.00 to 12 noon</tspan></text>
-      </g>
+       id="g3406"
+       transform="translate(-9.9999999,0)">
+      <rect
+         y="237.29741"
+         x="215.92661"
+         height="62.176392"
+         width="236.19284"
+         id="rect4200"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.89959049;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="0%"
+         id="text4194"
+         y="285.11038"
+         x="32.431221"
+         style="font-style:normal;font-weight:normal;font-size:61.61772156px;line-height:0%;font-family:sans-serif;letter-spacing:41.79735565px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.34809875px;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0px;fill:#ffffff"
+           y="285.11038"
+           x="32.431221"
+           id="tspan4196"
+           sodipodi:role="line">Every   <tspan
+   id="tspan4198"
+   style="font-size:51.34809875px;fill:#000000">SUNDAY   </tspan>from 10.00 to 12 noon</tspan></text>
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
