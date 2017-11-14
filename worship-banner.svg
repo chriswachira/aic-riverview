@@ -71,9 +71,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="553.98131"
-     inkscape:cy="190.52454"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="498.46521"
+     inkscape:cy="342.58217"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -363,5 +363,17 @@
          x="560.83679"
          y="538.92816"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Gotham Bold';-inkscape-font-specification:'Gotham Bold,  Bold';fill:#ff0000">SERVICE.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.3380928px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="24.048326"
+       y="1040.3743"
+       id="text4221"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4223"
+         x="24.048326"
+         y="1040.3743"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#ffffff">CONTACT US:   +254 751 876253</tspan></text>
   </g>
 </svg>
