@@ -62,7 +62,7 @@
        x2="525.2793"
        y2="866.49414"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-3.0304975,2.0203055)" />
+       gradientTransform="translate(-0.52985943,-1.5077944)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -71,9 +71,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="498.46521"
-     inkscape:cy="342.58217"
+     inkscape:zoom="0.35"
+     inkscape:cx="518.98366"
+     inkscape:cy="986.76996"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -141,20 +141,20 @@
        id="rect3525"
        width="1051.8903"
        height="1494.5951"
-       x="-2.5273273"
-       y="-432.16296" />
+       x="-0.026689535"
+       y="-435.69107" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:169.26660156px;line-height:0%;font-family:sans-serif;letter-spacing:114.81917572px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:169.26660156px;line-height:0%;font-family:sans-serif;letter-spacing:114.81917572px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="85.775085"
-       y="-192.65236"
+       y="-208.8148"
        id="text3360"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan3362"
          x="85.775085"
-         y="-192.65236"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:93.75px;font-family:'Gotham Light';-inkscape-font-specification:'Gotham Light, Light';letter-spacing:40px;fill:#ff0000;">RIVERVIEW</tspan></text>
+         y="-208.8148"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:93.75px;font-family:'Gotham Light';-inkscape-font-specification:'Gotham Light, Light';letter-spacing:40px;fill:#ff0000">RIVERVIEW</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:97.97698975px;line-height:0%;font-family:sans-serif;letter-spacing:66.46105194px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
@@ -179,74 +179,80 @@
          x="270.72089"
          y="310.91022"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:212.5px;font-family:'Mf Young &amp; Beautiful';-inkscape-font-specification:'Mf Young &amp; Beautiful';letter-spacing:0px" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:309.71817017px;line-height:0%;font-family:sans-serif;letter-spacing:210.09217834px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="414.8905"
-       y="128.29549"
-       id="text3558"
-       sodipodi:linespacing="0%"><tspan
-         sodipodi:role="line"
-         id="tspan3560"
+    <g
+       id="g4253">
+      <text
+         sodipodi:linespacing="0%"
+         id="text3558"
+         y="73.645721"
          x="414.8905"
-         y="128.29549"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.17956543px;font-family:'Mf Young &amp; Beautiful';-inkscape-font-specification:'Mf Young &amp; Beautiful';letter-spacing:0px;fill:#ff0000">orship</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:69.19947815px;line-height:0%;font-family:sans-serif;letter-spacing:46.94031525px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="227.63477"
-       y="267.99414"
-       id="text3367"
-       sodipodi:linespacing="0%"
-       transform="matrix(0.97121811,-0.23819192,0.23819192,0.97121811,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3369"
-         x="227.63477"
-         y="267.99414"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:245.08149719px;font-family:'Mf Young &amp; Beautiful';-inkscape-font-specification:'Mf Young &amp; Beautiful';letter-spacing:0px;fill:#ff0000">W</tspan></text>
+         style="font-style:normal;font-weight:normal;font-size:309.71817017px;line-height:0%;font-family:sans-serif;letter-spacing:210.09217834px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.17956543px;font-family:'Mf Young &amp; Beautiful';-inkscape-font-specification:'Mf Young &amp; Beautiful';letter-spacing:0px;fill:#ff0000;"
+           y="73.645721"
+           x="414.8905"
+           id="tspan3560"
+           sodipodi:role="line">orship</tspan></text>
+      <text
+         transform="matrix(0.97121811,-0.23819192,0.23819192,0.97121811,0,0)"
+         sodipodi:linespacing="0%"
+         id="text3367"
+         y="214.9173"
+         x="240.6519"
+         style="font-style:normal;font-weight:normal;font-size:69.19947815px;line-height:0%;font-family:sans-serif;letter-spacing:46.94031525px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:245.08149719px;font-family:'Mf Young &amp; Beautiful';-inkscape-font-specification:'Mf Young &amp; Beautiful';letter-spacing:0px;fill:#ff0000;"
+           y="214.9173"
+           x="240.6519"
+           id="tspan3369"
+           sodipodi:role="line">W</tspan></text>
+    </g>
     <path
-       style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:5.31496048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 272.74119,1.8441663 c 527.29963,0 527.29963,0 527.29963,0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:5.31496048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 272.74119,-52.805598 c 527.29963,0 527.29963,0 527.29963,0"
        id="path3371"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:5.31496048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 272.98103,176.93487 c 527.29964,0 527.29964,0 527.29964,0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:5.31496048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 272.98103,122.28511 c 527.29964,0 527.29964,0 527.29964,0"
        id="path3371-8"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:62.39755249px;line-height:0%;font-family:sans-serif;letter-spacing:42.32633972px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="270.60098"
-       y="-61.239574"
+       y="-101.64568"
        id="text4190"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4192"
          x="270.60098"
-         y="-61.239574"
+         y="-101.64568"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0px;fill:#ffffff">Welcomes you to</tspan></text>
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.89959049;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4200"
-       width="236.19284"
-       height="62.176392"
-       x="205.92661"
-       y="237.29741" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:61.61772156px;line-height:0%;font-family:sans-serif;letter-spacing:41.79735565px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="22.431221"
-       y="285.11038"
-       id="text4194"
-       sodipodi:linespacing="0%"><tspan
-         sodipodi:role="line"
-         id="tspan4196"
-         x="22.431221"
+    <g
+       id="g4229">
+      <rect
+         y="237.29741"
+         x="205.92661"
+         height="62.176392"
+         width="236.19284"
+         id="rect4200"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.89959049;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="0%"
+         id="text4194"
          y="285.11038"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.34809875px;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0px;fill:#ffffff">Every   <tspan
-   style="font-size:51.34809875px;fill:#000000"
-   id="tspan4198">SUNDAY   </tspan>from 10.00 to 12 noon</tspan></text>
+         x="22.431221"
+         style="font-style:normal;font-weight:normal;font-size:61.61772156px;line-height:0%;font-family:sans-serif;letter-spacing:41.79735565px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.34809875px;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0px;fill:#ffffff"
+           y="285.11038"
+           x="22.431221"
+           id="tspan4196"
+           sodipodi:role="line">Every   <tspan
+   id="tspan4198"
+   style="font-size:51.34809875px;fill:#000000">SUNDAY   </tspan>from 10.00 to 12 noon</tspan></text>
+    </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 540,333.79078 c 0,274.28575 0,274.28575 0,274.28575"
@@ -255,15 +261,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:60px;line-height:0%;font-family:sans-serif;letter-spacing:40.70000076px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="219.99998"
+       x="255.71428"
        y="383.79077"
        id="text4226"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4228"
-         x="219.99998"
+         x="255.71428"
          y="383.79077"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0px;fill:#ffffff">GATHERING AS</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0px;fill:#ffffff">GROWING AS</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:60px;line-height:0%;font-family:sans-serif;letter-spacing:40.70000076px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -350,7 +356,7 @@
        width="1051.2284"
        height="10.468871"
        x="0.37940815"
-       y="-151.50488" />
+       y="-185.85008" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -375,5 +381,17 @@
          x="24.048326"
          y="1040.3743"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#ffffff">CONTACT US:   +254 751 876253</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="425.2742"
+       y="194.6209"
+       id="text4243"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4245"
+         x="425.2742"
+         y="194.6209"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.5px;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#ffffff">with us</tspan></text>
   </g>
 </svg>
