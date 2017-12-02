@@ -16,7 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="worship-banner.svg">
+   sodipodi:docname="worship-banner.svg"
+   inkscape:export-filename="/home/chriswachira/Documents/G-Designs/aic-riverview/worship-banner.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -59,7 +62,7 @@
        x2="525.2793"
        y2="866.49414"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-3.9874413e-5,4.0571068e-7)" />
+       gradientTransform="translate(-0.52985943,-1.5077944)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -68,9 +71,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
+<<<<<<< HEAD
      inkscape:zoom="0.7"
      inkscape:cx="478.85787"
      inkscape:cy="1145.0746"
+=======
+     inkscape:zoom="0.98994949"
+     inkscape:cx="434.53976"
+     inkscape:cy="625.75445"
+>>>>>>> c02073b0617bfb5782d0e7aa128297b2b08be76f
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -138,6 +147,7 @@
        id="rect3525"
        width="1051.8903"
        height="1494.5951"
+<<<<<<< HEAD
        x="0.50313026"
        y="-434.18326" />
     <text
@@ -145,16 +155,33 @@
        style="font-style:normal;font-weight:normal;font-size:169.26660156px;line-height:0%;font-family:sans-serif;letter-spacing:114.81917572px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="85.775085"
        y="-192.65236"
+=======
+       x="-0.026689535"
+       y="-435.69107" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:169.26660156px;line-height:0%;font-family:sans-serif;letter-spacing:114.81917572px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="85.775085"
+       y="-208.8148"
+>>>>>>> c02073b0617bfb5782d0e7aa128297b2b08be76f
        id="text3360"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan3362"
          x="85.775085"
+<<<<<<< HEAD
          y="-192.65236"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:93.75px;font-family:'Gotham Light';-inkscape-font-specification:'Gotham Light, Light';letter-spacing:40px;fill:#ffffff;">RIVERVIEW</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:97.97698975px;line-height:0%;font-family:sans-serif;letter-spacing:66.46105194px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+=======
+         y="-208.8148"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:93.75px;font-family:'Gotham Light';-inkscape-font-specification:'Gotham Light, Light';letter-spacing:40px;fill:#ff0000">RIVERVIEW</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:97.97698975px;line-height:0%;font-family:sans-serif;letter-spacing:66.46105194px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+>>>>>>> c02073b0617bfb5782d0e7aa128297b2b08be76f
        x="340.59079"
        y="-319.37924"
        id="text3552"
@@ -163,7 +190,11 @@
          id="tspan3554"
          x="340.59079"
          y="-319.37924"
+<<<<<<< HEAD
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Gotham Light';-inkscape-font-specification:'Gotham Light, Light';letter-spacing:37.02207565px;fill:#ffffff;">A.I.C</tspan></text>
+=======
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Gotham Light';-inkscape-font-specification:'Gotham Light, Light';letter-spacing:37.02207565px;fill:#ff0000;">A.I.C</tspan></text>
+>>>>>>> c02073b0617bfb5782d0e7aa128297b2b08be76f
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:60px;line-height:0%;font-family:sans-serif;letter-spacing:40.70000076px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -177,6 +208,7 @@
          y="310.91022"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:212.5px;font-family:'Mf Young &amp; Beautiful';-inkscape-font-specification:'Mf Young &amp; Beautiful';letter-spacing:0px" /></text>
     <g
+<<<<<<< HEAD
        id="g3399"
        transform="translate(0,-4)">
       <text
@@ -188,6 +220,18 @@
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.17956543px;font-family:'Mf Young &amp; Beautiful';-inkscape-font-specification:'Mf Young &amp; Beautiful';letter-spacing:0px;fill:#ffffff"
            y="132.29549"
+=======
+       id="g4253">
+      <text
+         sodipodi:linespacing="0%"
+         id="text3558"
+         y="73.645721"
+         x="414.8905"
+         style="font-style:normal;font-weight:normal;font-size:309.71817017px;line-height:0%;font-family:sans-serif;letter-spacing:210.09217834px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.17956543px;font-family:'Mf Young &amp; Beautiful';-inkscape-font-specification:'Mf Young &amp; Beautiful';letter-spacing:0px;fill:#ff0000;"
+           y="73.645721"
+>>>>>>> c02073b0617bfb5782d0e7aa128297b2b08be76f
            x="414.8905"
            id="tspan3560"
            sodipodi:role="line">orship</tspan></text>
@@ -195,6 +239,7 @@
          transform="matrix(0.97121811,-0.23819192,0.23819192,0.97121811,0,0)"
          sodipodi:linespacing="0%"
          id="text3367"
+<<<<<<< HEAD
          y="271.879"
          x="226.68199"
          style="font-style:normal;font-weight:normal;font-size:69.19947815px;line-height:0%;font-family:sans-serif;letter-spacing:46.94031525px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -215,24 +260,53 @@
          d="m 272.98103,180.93487 c 527.29964,0 527.29964,0 527.29964,0"
          style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:5.31496048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+=======
+         y="214.9173"
+         x="240.6519"
+         style="font-style:normal;font-weight:normal;font-size:69.19947815px;line-height:0%;font-family:sans-serif;letter-spacing:46.94031525px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:245.08149719px;font-family:'Mf Young &amp; Beautiful';-inkscape-font-specification:'Mf Young &amp; Beautiful';letter-spacing:0px;fill:#ff0000;"
+           y="214.9173"
+           x="240.6519"
+           id="tspan3369"
+           sodipodi:role="line">W</tspan></text>
+    </g>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:5.31496048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 272.74119,-52.805598 c 527.29963,0 527.29963,0 527.29963,0"
+       id="path3371"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:5.31496048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 272.98103,122.28511 c 527.29964,0 527.29964,0 527.29964,0"
+       id="path3371-8"
+       inkscape:connector-curvature="0" />
+>>>>>>> c02073b0617bfb5782d0e7aa128297b2b08be76f
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:62.39755249px;line-height:0%;font-family:sans-serif;letter-spacing:42.32633972px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="270.60098"
-       y="-61.239574"
+       y="-101.64568"
        id="text4190"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4192"
          x="270.60098"
-         y="-61.239574"
+         y="-101.64568"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0px;fill:#ffffff">Welcomes you to</tspan></text>
     <g
+<<<<<<< HEAD
        id="g3406"
        transform="translate(-9.9999999,0)">
       <rect
          y="237.29741"
          x="215.92661"
+=======
+       id="g4229">
+      <rect
+         y="237.29741"
+         x="205.92661"
+>>>>>>> c02073b0617bfb5782d0e7aa128297b2b08be76f
          height="62.176392"
          width="236.19284"
          id="rect4200"
@@ -241,12 +315,20 @@
          sodipodi:linespacing="0%"
          id="text4194"
          y="285.11038"
+<<<<<<< HEAD
          x="32.431221"
+=======
+         x="22.431221"
+>>>>>>> c02073b0617bfb5782d0e7aa128297b2b08be76f
          style="font-style:normal;font-weight:normal;font-size:61.61772156px;line-height:0%;font-family:sans-serif;letter-spacing:41.79735565px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.34809875px;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0px;fill:#ffffff"
            y="285.11038"
+<<<<<<< HEAD
            x="32.431221"
+=======
+           x="22.431221"
+>>>>>>> c02073b0617bfb5782d0e7aa128297b2b08be76f
            id="tspan4196"
            sodipodi:role="line">Every   <tspan
    id="tspan4198"
@@ -260,13 +342,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:60px;line-height:0%;font-family:sans-serif;letter-spacing:40.70000076px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="219.99998"
+       x="222.37924"
        y="383.79077"
        id="text4226"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4228"
-         x="219.99998"
+         x="222.37924"
          y="383.79077"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0px;fill:#ffffff">GATHERING AS</tspan></text>
     <text
@@ -280,7 +362,7 @@
          id="tspan4236"
          x="224.28571"
          y="425.21933"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0px;fill:#ffffff">GOD'S PEOPLE</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;font-family:'Gotham Bold';-inkscape-font-specification:'Gotham Bold,  Bold';letter-spacing:0px;fill:#ff0000">GOD'S PEOPLE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -304,31 +386,48 @@
          id="tspan4244"
          x="559.04425"
          y="498.56668"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#ffffff">FAITH AND LOVE</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#ffffff"><tspan
+   style="fill:#ff0000;-inkscape-font-specification:'Gotham Bold,  Bold';font-family:'Gotham Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4207">FAITH<tspan
+   style="fill:#ffffff;-inkscape-font-specification:'Gotham Bold,  Bold';font-family:'Gotham Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4211">,</tspan> LOVE</tspan> AND</tspan><tspan
+         sodipodi:role="line"
+         x="559.04425"
+         y="498.56668"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#ffffff"
+         id="tspan4201" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="208.63457"
+       x="197.20599"
        y="548.11334"
        id="text4246"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4248"
-         x="208.63457"
+         x="197.20599"
          y="548.11334"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#ffffff">GOING TO MAKE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="84.852806"
+       x="65.567093"
        y="591.7326"
        id="text4250"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4252"
-         x="84.852806"
+         x="65.567093"
          y="591.7326"
+<<<<<<< HEAD
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#ffffff">DISCIPLES FOR CHRIST</tspan></text>
+=======
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#ffffff"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Gotham Bold';-inkscape-font-specification:'Gotham Bold,  Bold';fill:#ff0000"
+   id="tspan4213">DISCIPLES</tspan> FOR <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Gotham Bold';-inkscape-font-specification:'Gotham Bold,  Bold';fill:#ff0000"
+   id="tspan4215">CHRIST</tspan></tspan></text>
+>>>>>>> c02073b0617bfb5782d0e7aa128297b2b08be76f
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.81179357;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3382"
@@ -342,6 +441,46 @@
        width="1051.2284"
        height="10.468871"
        x="0.37940815"
+<<<<<<< HEAD
        y="-151.50488" />
+=======
+       y="-185.85008" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="560.83679"
+       y="538.92816"
+       id="text4203"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4205"
+         x="560.83679"
+         y="538.92816"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Gotham Bold';-inkscape-font-specification:'Gotham Bold,  Bold';fill:#ff0000">SERVICE.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.3380928px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="24.048326"
+       y="1040.3743"
+       id="text4221"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4223"
+         x="24.048326"
+         y="1040.3743"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#ffffff">CONTACT US:   +254 751 876253</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="425.2742"
+       y="194.6209"
+       id="text4243"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4245"
+         x="425.2742"
+         y="194.6209"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.5px;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#ffffff">with us</tspan></text>
+>>>>>>> c02073b0617bfb5782d0e7aa128297b2b08be76f
   </g>
 </svg>
